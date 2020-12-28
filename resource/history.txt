@@ -1,0 +1,8 @@
+28.12.2020
+- Start main
+- Git
+https://www.youtube.com/watch?v=ohygdCu5Flg
+Git: основы работы с Intellij Idea /Working with Git using Intellij Idea#Programming spot
+https://github.com/VictorP0306/RubicsCubeN.git
+==============================
+Swing
